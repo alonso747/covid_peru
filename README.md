@@ -12,3 +12,6 @@ Predicciones en los casos diarios de COVID-19 en Perú
 - Forecast (Holt)
 - Forecast (AR ARIMA)
 
+## Proyecto
+
+- Ir al proyecto: https://github.com/alonso747/covid_peru/blob/main/Predicciones.ipynb
